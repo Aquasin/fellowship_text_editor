@@ -1,0 +1,2 @@
+Hi all. 
+Welcome to the Fellowship, a text editor made using SFML.

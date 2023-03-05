@@ -1,0 +1,7 @@
+# Folder
+dep/
+
+# Files
+*.exe
+*.o
+*.dll
